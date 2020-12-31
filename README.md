@@ -4,7 +4,7 @@ These labs cover methods of object-oriented program development and design based
 and documentation techniques. I used a structured, high-level object-oriented programming language and learn to use both text-oriented and Windows-based user interfaces. 
 Designing and implementing solutions to intermediate-level programming assignments are an integral part of the course.
 
-## Take Away
+## Take-Aways
 Upon completing this course, I had learned to:
 - Describe the object-oriented programming environment and features
 - Describe the concepts of object-oriented programming, including encapsulation, inheritance, and polymorphism, and recursion
